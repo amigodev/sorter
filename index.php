@@ -71,8 +71,9 @@
 
     </ul>
 
-
     <div class="clearfix"></div>
+	
+	<a href="http://www.github.com/amigodev/sorter/">Amigo Sorter (github.com)</a>
 
   </div>
 

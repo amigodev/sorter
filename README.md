@@ -6,6 +6,8 @@ Sortable List Plugin. Sub-tree and mobile touch support.
 
 Requirements: jquery plugin, ul struct with span inside li for content. Include css and js sorter plugin.
 
+<img src="http://www.amigodev.com/demo/sorter/images/demo.jpg" alt="">
+
 <a href="http://www.amigodev.com/demo/sorter/index_en.php" target="_blank">Demo Page</a>
 
 ### Prerequisites
