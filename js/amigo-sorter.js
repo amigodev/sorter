@@ -20,7 +20,6 @@ $.fn.amigoSorter = function(options) {
 	$(document.body).append( $.fn.amigoSorter.li_helper( settings.li_helper ) ); 
 
 	$(document).on(mouse_up_events, function(e) {
-		e.preventDefault(); 
 		action = false;
 		$ul.attr('data-action', false);
 		$ul.find('li').removeClass(settings.li_empty);
